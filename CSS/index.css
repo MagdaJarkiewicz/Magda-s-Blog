@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(165, 155, 143);
+    font-family: Brush Script MT, Brush Script Std;
+    font-size: 25px;
+}
+
+.navbar li {
+    display: inline-block;
+    padding:  0 30px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+#earth {
+    width: 150px;
+    height: 150px;
+}
+#mainheading {
+    background-color: rgb(165, 155, 143);
+    margin-top: 60px;
+    text-align: center;
+    height: 350px;
+    padding: 5px;
+    font-family: Brush Script MT, Brush Script Std;
+    font-size: 30px; 
+}
+
+#Aboutme {
+    padding: 60px;
+}
+.logo {
+        width: 300px;
+        height:200px;
+        filter: drop-shadow(2px 2px 2px black);
+        padding: 30px 30px;
+    }
+.font {
+    font-family: Brush Script MT, Brush Script Std;
+}
+
+ .Favourite {
+    text-align: center
+ }   
+
+ .contactme {
+    background-color: rgb(165, 155, 143);
+    padding: 30px;
+    padding-left: 75px;
+ }
